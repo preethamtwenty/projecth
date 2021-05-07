@@ -1,0 +1,36 @@
+.welcome_page{
+    color:black;
+    align-items: center;
+    
+    display:flex;
+    flex-direction: column;
+    justify-content:center !important;
+    height:100vh;
+    
+}
+.code_part{
+   display:flex;
+   flex-direction:column;   
+   flex: 1 !important;
+   width: 100% !important;
+}
+
+.welcome_textarea{    
+    
+    border:none;
+    outline: none;
+    padding: 20px;
+   
+    border-radius: 10px;
+    width: 100%;
+    border:1px solid #30475e;
+    
+    
+    margin-bottom: 10px;
+}
+
+.title{
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;   
+    
+}
